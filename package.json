@@ -1,0 +1,11 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Creating a portfolio website to expand HTML, CSS, JS knowledge.",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
